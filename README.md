@@ -31,6 +31,8 @@ Consultas
     - https://www.ionos.mx/digitalguide/paginas-web/desarrollo-web/archivo-readme/
     - https://colorhunt.com
     - https://fonts.google.com/
+    - https://www.alextomas.com/blog/cinco-formas-eliminar-elementos-array-javascript/
+    - https://www.forosdelweb.com/f13/limpiar-caja-texto-hacer-clic-561530/
 
  Cursos de Alura (notas propias y/o videos)
  
